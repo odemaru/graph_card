@@ -3,6 +3,10 @@
 GraphQL API с профилем, навыками, опытом работы и проектами.
 NestJS 12, Prisma 7, PostgreSQL 18, Apollo Server 5, TypeScript, Docker.
 
+Развёрнуто на Render: https://graph-card.onrender.com/graphql. Бесплатный
+тариф засыпает после 15 минут без запросов, первое открытие после паузы
+занимает около минуты.
+
 ## Запуск
 
 ```bash

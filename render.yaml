@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: graph-card
+    runtime: docker
+    plan: free
+    region: frankfurt
+    envVars:
+      - key: DATABASE_URL
+        sync: false
